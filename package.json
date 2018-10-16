@@ -1,0 +1,22 @@
+{
+  "name": "fast-cache",
+  "version": "0.0.1",//版本号分三级，分别为：一级重构版本，二级重大功能改进，三级小升级或者bug修复，0.x.x可以认为是非正式版本、测试版，1.x.x开始，正式发布版本
+  "description": "短小精悍的前端缓存工具，防止内存“泄露”",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cats1/fast-cache.git"
+  },
+  "keywords": [
+    "cache"
+  ],
+  "author": "Your name",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/cats1/fast-cache/issues"
+  },
+  "homepage": "https://github.com/cats1/fast-cache#readme"
+}
