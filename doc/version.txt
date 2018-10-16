@@ -1,0 +1,14 @@
+版本号分三级，分别为：
+一级重构版本，
+二级重大功能改进，
+三级小升级或者bug修复，
+0.x.x可以认为是非正式版本、测试版，1.x.x开始，正式发布版本.
+规范一级目录
+src源代码
+release 发布结果
+test 单元测试用例
+doc 文档
+example 示例
+构建工具
+安装插件 npm i babel-core babel-loader babel-polyfill babel-preset-es2015 babel-preset-latest webpack webpack-cli --save-dev
+根目录创建.babelrc文件
